@@ -1,0 +1,261 @@
+body {background-color: #9bcdff;
+}
+
+#nav {
+	list-style-type: none;
+	float: left;
+	padding: 42px 0px 0px 30px;
+	font-size: 20pt;
+
+}
+
+#nav a {
+	text-decoration: none;
+}
+
+
+#nav li {
+	padding: 0 0 0 30px;
+	display: block;
+
+}
+
+#nav li a {
+	padding: 25px 400px 15px 15px;
+
+font-weight: bold;
+color: #ccc;
+color: rgba(255, 255, 255, 0.7);
+text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+
+border-radius: 15px 50px 30px 5px;
+
+-webkit-border-radius: 15px 50px 30px 5px;
+-moz-border-radius: 15px 50px 30px 5px;
+}
+
+
+#nav li a:hover,
+
+#nav li a:focus {
+	color: #fff;
+	background: rgba(255,155,155,0.45);
+	font-size: 35pt;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
+
+#nav2 {
+	list-style-type: none;
+	float: left;
+}
+
+#nav2 a { 
+	text-decoration: none;
+
+
+}
+#nav2 li {
+	padding: 0 0 0 30px;
+	display: block; 
+}
+
+#nav2 li a {
+	padding: 20px 50px 20px 10px;
+	color: #ccc;
+	color: rgba(255, 255, 255, 0.7);
+	text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+
+	border-radius: 15px 50px 30px 5px;
+
+	-webkit-border-radius: 15px 50px 30px 5px;
+	-moz-border-radius: 15px 50px 30px 5px;
+
+}
+
+.newbutton1 {
+	list-style-type: none;
+	padding: 20px 100px 20px 10px;
+	margin: auto;
+	font-size: 20pt;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+}
+
+.newbutton1:hover,
+.newbutton1:focus {
+	color: #fff;
+	background: rgba(255,155,155,0.45);
+	font-size: 35pt;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
+
+.newbutton2 {
+	list-style-type: none;
+	padding: 20px 100px 20px 10px;
+	font-size: 20pt;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	color: #ccc;
+	color: rgba(255, 255, 255, 0.7);
+	text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+
+	border-radius: 15px 50px 30px 5px;
+
+	-webkit-border-radius: 15px 50px 30px 5px;
+	-moz-border-radius: 15px 50px 30px 5px;
+
+}
+
+.newbutton2:hover,
+.newbutton2:focus {
+	color: #fff;
+	background: rgba(255,155,155,0.45);
+	font-size: 35pt;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
+
+.newbutton3 {
+	list-style-type: none;
+	padding: 20px 100px 20px 10px;
+	font-size: 20pt;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	color: #ccc;
+	color: rgba(255, 255, 255, 0.7);
+	text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+
+	border-radius: 15px 50px 30px 5px;
+
+	-webkit-border-radius: 15px 50px 30px 5px;
+	-moz-border-radius: 15px 50px 30px 5px;
+
+}
+
+.newbutton3:hover,
+.newbutton3:focus {
+	color: #fff;
+	background: rgba(255,155,155,0.45);
+	font-size: 35pt;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
+
+#nav3 {
+	list-style-type: none;
+	float: left;
+}
+
+#nav3 a { 
+	text-decoration: none;
+
+
+}
+#nav3 li {
+	padding: 0 0 0 30px;
+	display: block; 
+}
+
+#nav3 li a {
+	padding: 20px 50px 20px 10px;
+	color: #ccc;
+	color: rgba(255, 255, 255, 1);
+	text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+
+	border-radius: 15px 50px 30px 5px;
+
+	-webkit-border-radius: 15px 50px 30px 5px;
+	-moz-border-radius: 15px 50px 30px 5px;
+
+}
+
+
+.newbutton4 {
+
+	list-style-type: none;
+	padding: 20px 100px 20px 10px;
+	margin: auto;
+	font-size: 20pt;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	color: white;
+	color: rgba(255,255,255, 0.1);
+	text-shadow: 0 1px 1px rgba(0,0,0,1);
+}
+
+.newbutton4:hover,
+.newbutton4:focus {
+	color: #fff;
+	background: rgba(255,155,155, 0.1);
+	font-size: 35pt;
+	opacity: 0.3;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
+
+
+
+
+.newbutton5 {
+
+	list-style-type: none;
+	padding: 20px 100px 20px 10px;
+	margin: auto;
+	font-size: 20pt;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+
+}
+
+.newbutton5:hover,
+.newbutton5:focus {
+	color: #fff;
+	background: rgba(255,155,155,0.1);
+	font-size: 35pt;
+	opacity: 0.3;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
+
+.newbutton6 {
+
+	list-style-type: none;
+	padding: 20px 100px 20px 10px;
+	margin: auto;
+	font-size: 20pt;
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+
+}
+
+.newbutton6:hover,
+.newbutton6:focus {
+	color: #fff;
+	background: rgba(255,155,155,0.1);
+	font-size: 35pt;
+	opacity: 0.3;
+	-webkit-transition: all 0.3s ease-in-out 0.2s;
+	-moz-transition: all 0.3s ease-in-out 0.2s;
+	-o-transition: all 0.3s ease-in-out 0.2s;
+	-transition: all 0.3s ease-in-out 0.2s;
+}
